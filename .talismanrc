@@ -1,3 +1,23 @@
 fileignoreconfig:
 - filename: backend/settings.py
-  checksum: 7f35564bd616be0a7dc25924b8569f7168e0fc1b1f3b9ce8842dbe9ecd32855c
+  checksum: 738f79a4bba8d13658a8e934e9a4ead810a2cea9a1fa8914d760150db3c0e5dc
+- filename: order/migrations/0001_initial.py
+  checksum: 4d7ce3601ae577aa3e1d097e3f05c8e78bb422370013d1e174a475293232481c
+- filename: user/models.py
+  checksum: 8da38d89de348e84705108f7a22aa15e162fa16db7b255168a27ab5097e4c661
+version: "1.0"
+38f79a4bba8d13658a8e934e9a4ead810a2cea9a1fa8914d760150db3c0e5dc
+-filename: backend/settings.py
+checksum: 738f79a4bba8d13658a8e934e9a4ead810a2cea9a1fa8914d760150db3c0e5dc
+-filename: order/migrations/0001_initial.py
+checksum: 4d7ce3601ae577aa3e1d097e3f05c8e78bb422370013d1e174a475293232481c
+-filename: user/models.py
+checksum: 8da38d89de348e84705108f7a22aa15e162fa16db7b255168a27ab5097e4c661
+-filename: backend/settings.py
+checksum: 738f79a4bba8d13658a8e934e9a4ead810a2cea9a1fa8914d760150db3c0e5dc
+
+-filename: order/migrations/0001_initial.py
+checksum: 4d7ce3601ae577aa3e1d097e3f05c8e78bb422370013d1e174a475293232481c
+
+filename: user/models.py
+checksum: 8da38d89de348e84705108f7a22aa15e162fa16db7b255168a27ab5097e4c661
