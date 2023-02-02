@@ -13,30 +13,12 @@
 - Deployment scripts: Docker, Gunicorn / Nginx
 - Join Risers **Github** and [Discord](https://discord.gg/QcpbeUFv).
 
-<br />
 
-> Links
-
-- [Django Bootstrap 5 Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) - product page
-- [Django Bootstrap 5 Volt](https://django-volt-dashboard.appseed-srv1.com/) - LIVE deployment
-- [Django Bootstrap 5 Volt](https://docs.appseed.us/products/django-dashboards/volt) - product documentation
 
 <br />
 
-## Want more? Go PRO!
 
-PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
 
-| [Django Datta PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro) | [Django Soft PRO](https://appseed.us/product/django-soft-ui-dashboard-pro) | [Django Volt PRO](https://appseed.us/admin-dashboards/django-dashboard-volt-pro) |
-| --- | --- | --- |
-| [![Django Datta PRO](https://raw.githubusercontent.com/app-generator/django-dashboard-dattaable-pro/master/media/django-dashboard-dattaable-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro) | [![Django Soft PRO](https://user-images.githubusercontent.com/51070104/123547150-3f176300-d768-11eb-9359-ad6611e19a3a.png)](https://appseed.us/product/django-soft-ui-dashboard-pro) | [![Django Volt PRO](https://raw.githubusercontent.com/app-generator/django-dashboard-volt-pro/master/media/django-dashboard-volt-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-volt-pro)
-
-<br />
-<br />
-
-![Django Bootstrap 5 Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-volt/master/media/django-dashboard-volt-screen.png)
-
-<br />
 
 ## How to use it
 
