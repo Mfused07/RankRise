@@ -1,23 +1,114 @@
 fileignoreconfig:
-- filename: backend/settings.py
-  checksum: 738f79a4bba8d13658a8e934e9a4ead810a2cea9a1fa8914d760150db3c0e5dc
-- filename: order/migrations/0001_initial.py
-  checksum: 4d7ce3601ae577aa3e1d097e3f05c8e78bb422370013d1e174a475293232481c
-- filename: user/models.py
-  checksum: 8da38d89de348e84705108f7a22aa15e162fa16db7b255168a27ab5097e4c661
+- filename: apps/authentication/forms.py
+  checksum: e512112bc42c67c6eb661174953cfa97647b05e2e63d0a80285554c3b2bf9dd9
+- filename: apps/authentication/views.py
+  checksum: e60f075ce6c2c5c75760deb33da1cdcde11595fe38a81e3b102d8149e0b58c3d
+- filename: apps/static/assets/css/volt.css.map
+  checksum: 637813a296bffa123c2aaae976b251ba5df2d332ebac8e90c439415c3ab68ba8
+- filename: apps/static/assets/css/volt.min.css
+  checksum: 8d0255be970abbf04bc4e36fb668162584cb070f30c3e44e50971a217e0d8b50
+- filename: apps/static/assets/scss/volt/_functions.scss
+  checksum: 366d9b00487beb00d63dec9d00921e09ed049ee20e10e201057309ca3b7a1f6d
+- filename: apps/static/assets/vendor/@popperjs/core/dist/cjs/popper-base.js
+  checksum: dceef7562c1cbea712230c8c18f8612fe388974757c231e602a4a9bb28aca80e
+- filename: apps/static/assets/vendor/@popperjs/core/dist/cjs/popper-lite.js
+  checksum: ec445871535ed48f5ae99e59054c824eb1de291b8303d03d2ad74cd2c850f124
+- filename: apps/static/assets/vendor/@popperjs/core/dist/cjs/popper.js
+  checksum: 0b4cbb13ead23000fbe719b98aff19e8962df5474d3146ce74425f66c16a9800
+- filename: apps/static/assets/vendor/@popperjs/core/dist/esm/createPopper.js
+  checksum: acc7b8a9d04214922770940a7a2484350531aa42c9958fb29cb88d6d7fb32f15
+- filename: apps/static/assets/vendor/@popperjs/core/dist/esm/modifiers/applyStyles.js
+  checksum: 3e006ae22e4b7bf3f7b21899fcf6c033c5e15e1c945a5762289ee5b110d8db66
+- filename: apps/static/assets/vendor/@popperjs/core/dist/esm/utils/detectOverflow.js
+  checksum: f85cd4cc7a2116b200e6ccb9370ee397a26f080985c69cac0ae17430bcff5da1
+- filename: apps/static/assets/vendor/@popperjs/core/dist/esm/utils/format.js
+  checksum: 1e9f681f5c88a94ec4d247b90949971147857932807c52ea880a82d8d015cd9e
+- filename: apps/static/assets/vendor/@popperjs/core/dist/umd/popper-base.min.js
+  checksum: 2f5030a46a30baf536536e31402239238b7fd23440ecd6dee45bcf7d599c7604
+- filename: apps/static/assets/vendor/@popperjs/core/dist/umd/popper-lite.min.js
+  checksum: 1b67f17c9356ed0d4c37de3577db08bc70a9a1abdb3444f8cdd093ec72f10091
+- filename: apps/static/assets/vendor/@popperjs/core/dist/umd/popper.min.js
+  checksum: 437729004ae1337d9a35d2b321f77695720535010e1249cbc20655c1963116d5
+- filename: apps/static/assets/vendor/bootstrap/dist/css/bootstrap.min.css
+  checksum: 11161970cc54277ef8879aa984563ab68ccc53d7437f6b0483fd3884ffe77169
+- filename: apps/static/assets/vendor/bootstrap/dist/css/bootstrap.rtl.min.css
+  checksum: 905a3e9f20b603d6940df21ab2731c9790b12fb0c816b132fc2d7328361c7299
+- filename: apps/static/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js
+  checksum: ecc9a9441f9bf799a40db3d4aa250ae2b80229c774699a094137d0e7f09f4ea0
+- filename: apps/static/assets/vendor/bootstrap/dist/js/bootstrap.esm.min.js
+  checksum: 49e8f7c52e9d8f2e1a50fa02bbbaed8d8040a30f58bcf41796c0895a6b699e3d
+- filename: apps/static/assets/vendor/bootstrap/dist/js/bootstrap.min.js
+  checksum: b07a9345f62c6f18c83e9c0d2f986b7431e735afed63312cb881a05a166d5b19
+- filename: apps/static/assets/vendor/chartist/dist/chartist.min.js
+  checksum: cf2e61076a288ca04e10fbf858676c2e58ac3695245f7e24370dede4bca82db5
+- filename: apps/static/assets/vendor/notyf/notyf.min.css
+  checksum: 15f7f1b2639c6b0d1c16ec56e961aab18bbe357f4af37d4d1707e950f791ac73
+- filename: apps/static/assets/vendor/nouislider/distribute/nouislider.min.js
+  checksum: 4b6ce5b5dbf8d343427bbbfef44d788eab1db5e0ee8ad4d83f12c88cc8f0161f
+- filename: apps/static/assets/vendor/nouislider/distribute/nouislider.min.mjs
+  checksum: edc9f0e2cf7f6a02b700dd78f50c15fd524a1f11f1935c38c8ba8b202a0ec19c
+- filename: apps/static/assets/vendor/nouislider/distribute/nouislider.mjs
+  checksum: b4a01b01df1a715b293e68d405be417a17b6adf14c9a203d720ca3b5722ac4d8
+- filename: apps/static/assets/vendor/onscreen/dist/index.js
+  checksum: 8229ffb9fce3f4757da418df65f4c2cad8153809f5e7bbb509e1d9b651a38136
+- filename: apps/static/assets/vendor/onscreen/dist/on-screen.es6.js
+  checksum: 59a489de840cba4bd0b75db4aa7b935ca50c114602120fc8c783119dc9acc597
+- filename: apps/static/assets/vendor/onscreen/dist/on-screen.umd.min.js
+  checksum: 9ec3885ff2152ed3d8bf50b86c386927baf74d80cd23f1ebfb3c4ad73edd9316
+- filename: apps/static/assets/vendor/simplebar/dist/simplebar.esm.js
+  checksum: 65a8eeece2fef1d3c60653392d45e5cf220d4bfca341f533997e6cd3bb0e3220
+- filename: apps/static/assets/vendor/simplebar/dist/simplebar.min.js
+  checksum: 679549bdc74d228b9c5dcddd483e44c5f4dc4e6d3e8d0401c3dbae8742f8f61a
+- filename: apps/static/assets/vendor/simplebar/dist/simplebar.umd.js
+  checksum: 88da225505cb68dfca176880d6660b0f19ad739e96697efe6a1dfb93a698ef75
+- filename: apps/static/assets/vendor/smooth-scroll/dist/smooth-scroll.min.js
+  checksum: df2096ad399b8a7a1476db6355fe3fa2d19d94ca3977ac42e1a56e5f1c35ec3e
+- filename: apps/static/assets/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js
+  checksum: 0bc5198e1a8cdafe104bc1bf22062f16592ae79822226a24a93af7ee61c63d43
+- filename: apps/static/assets/vendor/sweetalert2/dist/sweetalert2.all.min.js
+  checksum: 13acfd5b04ab4be05c690823ea2f911bc4e79b400a7e20571bcfa3cf75d562e5
+- filename: apps/static/assets/vendor/sweetalert2/dist/sweetalert2.min.css
+  checksum: dfac5e3c8665241513c3b5c7099980fbdd73a6e22b880a903a75cbcfee9c819f
+- filename: apps/static/assets/vendor/sweetalert2/dist/sweetalert2.min.js
+  checksum: 62f34bb489396b672e86ead63ad1191b67a73c8030325081aa0fa149b7fc457a
+- filename: apps/static/assets/vendor/vanillajs-datepicker/dist/js/datepicker-full.min.js
+  checksum: 84d0236cd87d9a2075b3c501a5bcb326c6c78d577e90784dadaa6731d7f1aab8
+- filename: apps/static/assets/vendor/vanillajs-datepicker/dist/js/datepicker.min.js
+  checksum: 6686fa8f7330b6e6224e5a20f2ffd4839881597ecb69d50b22e9e2c7fac84eff
+- filename: apps/static/assets/vendor/vanillajs-datepicker/dist/js/locales/km.js
+  checksum: 6d2b3bb5d4552314ea2449503216e4020c625b795f9fd08dba20a56ced7e786e
+- filename: apps/static/assets/vendor/waypoints/lib/jquery.waypoints.min.js
+  checksum: 85d898100e2ce107c353339076266b8a1a11dfd8aef9c7878af894b159d770ae
+- filename: apps/static/assets/vendor/waypoints/lib/noframework.waypoints.min.js
+  checksum: 74c85896d175f15c612fcb587d5b1dcd660bb831f96aee2fb7f84724805648f4
+- filename: apps/static/assets/vendor/waypoints/lib/zepto.waypoints.min.js
+  checksum: e6924bf695928249ff6cbe0057d9639d6a935824c029439b8d11b2db4a682908
+- filename: apps/templates/accounts/login.html
+  checksum: 32e2b14359003d5f72fc2358581c0303afb7a576bfbf00d64ed2671f46e92653
+- filename: apps/templates/accounts/register.html
+  checksum: 11a90149f16d287bff8711f3cab5a80c8d356076ceb19f6ca53a80337387729f
+- filename: apps/templates/home/components-forms.html
+  checksum: 8d92600a40e3531b3f59bd38515bb3969583578437967bab12dd4f9ca99aa929
+- filename: apps/templates/home/components-modals.html
+  checksum: be434299f464b3b896d85af9585a4c9a33303bf167ac111fd1a685f9aff28824
+- filename: apps/templates/home/index.html
+  checksum: dd36e5c28a8ad63b6e251f2ee02801f8f0158fc2a6893125c0ac50e72ec514c6
+- filename: apps/templates/home/page-forgot-password.html
+  checksum: 029a8851123842a102f9df3a0032300093a3eb70399fddd3488fd9e52d95b4f8
+- filename: apps/templates/home/page-lock.html
+  checksum: 0bf0c94706b95354d9f286e2f916d8041a8daf5f84d0a82880761039d9d0f6a9
+- filename: apps/templates/home/page-reset-password.html
+  checksum: 85a28c8445b5f06198baa0ec93122e68611048112650fadd06759de8a8822276
+- filename: apps/templates/home/page-sign-in.html
+  checksum: 76844217e965485adbcd51ad01d4a168cdcdb80663b7439824b35075d99f23b4
+- filename: apps/templates/home/page-sign-up.html
+  checksum: 983f316e3855c86be2669ee5972328c225440efa62019e4b3a2b72456764c35d
+- filename: apps/templates/layouts/base-fullscreen.html
+  checksum: 95cb19c6a633a8233e216483247d59117f790ff700d1b184eac7f3bf80cac32e
+- filename: apps/templates/layouts/base.html
+  checksum: b16ff2bf0f994b443d2f379a6b98e76a7386f5c48e75adeb3a20aa6f8fd199b2
+- filename: core/asgi.py
+  checksum: e62a486a691000631f166ac93224634a65e9370b5781d0b1b9d1f3bda7396e5c
+- filename: nginx/appseed-app.conf
+  checksum: c4d2271a6fda40dd7d610e6c75b94714583a657fa066c9e65cc36f3cb0b894f9
 version: "1.0"
-38f79a4bba8d13658a8e934e9a4ead810a2cea9a1fa8914d760150db3c0e5dc
--filename: backend/settings.py
-checksum: 738f79a4bba8d13658a8e934e9a4ead810a2cea9a1fa8914d760150db3c0e5dc
--filename: order/migrations/0001_initial.py
-checksum: 4d7ce3601ae577aa3e1d097e3f05c8e78bb422370013d1e174a475293232481c
--filename: user/models.py
-checksum: 8da38d89de348e84705108f7a22aa15e162fa16db7b255168a27ab5097e4c661
--filename: backend/settings.py
-checksum: 738f79a4bba8d13658a8e934e9a4ead810a2cea9a1fa8914d760150db3c0e5dc
-
--filename: order/migrations/0001_initial.py
-checksum: 4d7ce3601ae577aa3e1d097e3f05c8e78bb422370013d1e174a475293232481c
-
-filename: user/models.py
-checksum: 8da38d89de348e84705108f7a22aa15e162fa16db7b255168a27ab5097e4c661
